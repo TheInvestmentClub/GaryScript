@@ -1,5 +1,5 @@
 <?php
 
-echo "Test";
+echo "Testing 2 After pull\n";
 
 ?>
